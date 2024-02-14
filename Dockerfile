@@ -1,5 +1,5 @@
 FROM tomcat:8.0-alpine
-LABEL maintainer="satheeskumar.pmp@gmail.com"
+LABEL maintainer="kvpramasamy@gmail.com"
 
 ADD sampleLogin.war /usr/local/tomcat/webapps/
 
